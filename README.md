@@ -5,3 +5,31 @@
 - Git: https://git-scm.com/
 - Flowchart: https://whimsical.com/
 - MLOPs Tool: https://www.evidentlyai.com/
+
+
+## Git commands
+
+
+```Bash
+git add .
+
+git commit -m "Updated"
+
+git push origin main
+```
+
+
+## How to run?
+
+
+```Bash
+conda create -n usvisa python=3.8 -y
+```
+
+```Bash
+conda activate usvisa
+```
+
+```Bash
+pip install -r requirements.txt
+```
