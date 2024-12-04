@@ -1,4 +1,4 @@
-# Robust-MLOps-Elevating-Machine-Learning-to-Production-Scale
+Elevating-Machine-Learning-to-Production-Scale
 
 - Anaconda: https://www.anaconda.com/
 - Vs code: https://code.visualstudio.com/download
